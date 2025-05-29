@@ -6,7 +6,7 @@
 
 ## Features
 
-    *   Automatic selling
+ *   Automatic selling
     *   Automatically sell items whose quality is lower than a defined theshold
     *   Automatic selling of fortune cards
     *   Automatic selling of unusable items
