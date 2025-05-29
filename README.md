@@ -6,13 +6,13 @@
 
 ## Features
 
- *   Automatic selling
-    *   Automatically sell items whose quality is lower than a defined theshold
-    *   Automatic selling of fortune cards
-    *   Automatic selling of unusable items
-    *   Automatic selling of items whose item level is lower than a defined treshold
-    *   Automatic selling of items below the price threshold
-    *   Automatic repair and guild repair
+*   Automatic selling
+*   Automatically sell items whose quality is lower than a defined theshold
+*   Automatic selling of fortune cards
+*   Automatic selling of unusable items
+*   Automatic selling of items whose item level is lower than a defined treshold
+*   Automatic selling of items below the price threshold
+*   Automatic repair and guild repair
 
  
 
