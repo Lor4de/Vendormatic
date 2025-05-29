@@ -1,0 +1,15 @@
+## Interface: 110105
+## Title: |cffffffffVendor|rmatic
+## Notes: Sell and Repair automatically
+## Notes-deDE: Automatisches Verkaufen und Reparieren
+## Version: 3.0
+## Author: Lorade
+## SavedVariables: VendormaticDB
+
+Include.xml
+Locales\Locale.xml
+
+Init.lua
+Lib.lua
+Main.lua
+Interface.lua
