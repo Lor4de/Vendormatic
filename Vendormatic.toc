@@ -1,8 +1,8 @@
-## Interface: 110105
+## Interface: 110107
 ## Title: |cffffffffVendor|rmatic
 ## Notes: Sell and Repair automatically
 ## Notes-deDE: Automatisches Verkaufen und Reparieren
-## Version: 3.0
+## Version: 3.1
 ## Author: Lorade
 ## SavedVariables: VendormaticDB
 
